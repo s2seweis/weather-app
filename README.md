@@ -1,6 +1,8 @@
-live demo
+# Simple React Weather App 
 
- http://strange-beggar.surge.sh
+## Build with https://home.openweathermap.org/
 
- 
-http://earsplitting-hair.surge.sh
+### Live demo will follow the next days:
+
+#### Url to the tutorial:
+https://cmsingh172.medium.com/weather-app-using-reactjs-3a1bb5be6085
